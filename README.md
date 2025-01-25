@@ -5,6 +5,7 @@ An arctic, north-bluish clean and elegant theme for [fast-syntax-highlighting](h
 Design based on the [Nord](https://github.com/arcticicestudio/nord) color palette.
 
 ![](screenshot.png)
+
 (I do not know why the comments are not rendered correctly)
 
 ## Install
